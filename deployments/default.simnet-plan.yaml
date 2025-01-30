@@ -55,6 +55,11 @@ plan:
             path: contracts/data-registry.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: access-control
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/access-control.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: consent-management
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/consent-management.clar
