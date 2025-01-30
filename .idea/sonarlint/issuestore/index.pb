@@ -9,3 +9,5 @@ Q
 !contracts/consent-management.clar,2/e/2e5a2504188b18fe18335d2beebfa11e060fc3fb
 P
  tests/consent-management.test.ts,7/8/783f8cca98d01d49f59c2931d64e7c41c95061ed
+M
+contracts/access-control.clar,6/6/669f44b87120b222b50b4b39670be7edd9bd587e
