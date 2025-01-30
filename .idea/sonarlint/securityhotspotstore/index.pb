@@ -7,3 +7,5 @@ K
 tests/data-registry.test.ts,8/9/89621a816db4180428054fbea1d61741c76ae03e
 Q
 !contracts/consent-management.clar,2/e/2e5a2504188b18fe18335d2beebfa11e060fc3fb
+P
+ tests/consent-management.test.ts,7/8/783f8cca98d01d49f59c2931d64e7c41c95061ed
